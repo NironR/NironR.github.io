@@ -1,0 +1,13 @@
+nav.navbar {
+    padding: 18px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 9999;
+    transition: 0.32 ease-in-out;
+}
+
+nav.navbar .navbar__nav a.nav__link.navbar__link:hover,
+nav.navbar .navbar__nav a.nav__link.navbar__link:active {
+    opacity: 1;
+}
