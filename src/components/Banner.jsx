@@ -49,7 +49,7 @@ const Banner = () => {
                         <span className="tagline">
                             Welcome to my E-Portfolio
                         </span>
-                        <h1>{"Hi I'm Ryan Norin. A "}
+                        <h1>{"Hi, I'm Ryan Norin. A "}
                             <span className='wrap'>
                                 {text}
                             </span>
