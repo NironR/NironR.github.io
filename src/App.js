@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/NavBar.jsx';
 import Banner from './components/Banner.jsx'
 import Skills from './components/Skills.jsx';
+import Projects from './components/Projects.jsx'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navbar />
       <Banner />
       <Skills />
+      <Projects />
     </div>
   );
 }
