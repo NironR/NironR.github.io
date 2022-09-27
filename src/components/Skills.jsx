@@ -42,19 +42,27 @@ const Skills = () => {
                         <h2>
                             Skills
                         </h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, dolore!</p>
+                        <p>These are my current Technology Stacks</p>
                         <Carousel className='skill__slider' responsive={responsive} infinite={true}>
                             <div className="item">
-                                <img src={meter1} alt="Image" />
-                                <h5>Web Development</h5>
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/240px-HTML5_Badge.svg.png" alt="Image" />
+                                <h5>HTML</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
-                                <h5>Brand Identity</h5>
+                                <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="Image" />
+                                <h5>CSS</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
-                                <h5>Logo Design</h5>
+                                <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="Image" />
+                                <h5>JavaScript</h5>
+                            </div>
+                            <div className="item">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Image" />
+                                <h5>React</h5>
+                            </div>
+                            <div className="item">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" alt="Image" />
+                                <h5>Firebase</h5>
                             </div>
                         </Carousel>
                     </div>

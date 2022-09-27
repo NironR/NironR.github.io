@@ -5,6 +5,7 @@ import projImg2 from "./assets/img/project-img2.png"
 import projImg3 from "./assets/img/project-img3.png"
 import {Container, Row, Col, Nav, Tab} from "react-bootstrap"
 import ProjectCard from "./ProjectCard.jsx"
+import 'animate.css'
 import colorSharp2 from "./assets/img/color-sharp2.png"
 import TrackVisibility from 'react-on-screen';
 
@@ -50,9 +51,9 @@ const Projects = () => {
             <Col size={12}>
               <TrackVisibility>
                 {({ isVisible }) =>
-                <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
+                <div className={isVisible ? "animate__animated animate__bounce": ""}>
                   <h2>Projects</h2>
-                  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                  <p>Below are projects that I've created for clients, personal contacts or myself to better improve my skills. Take a look below.</p>
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                       <Nav.Item>

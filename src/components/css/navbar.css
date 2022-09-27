@@ -145,3 +145,11 @@ nav.navbar {
   nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
       border-color: transparent;
   }
+
+ .social-icon {
+    display: flex;
+ }
+
+ .navIcon {
+    filter: invert(100%);
+ }
