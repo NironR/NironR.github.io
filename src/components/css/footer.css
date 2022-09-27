@@ -75,3 +75,11 @@
     letter-spacing: 0.5px;
     margin-top: 20px;
   }
+
+.social-icon {
+    display: flex;
+ }
+
+ .navIcon {
+    filter: invert(100%);
+ }
