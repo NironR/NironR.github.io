@@ -1,8 +1,11 @@
 import React from 'react';
 import "./css/projects.css"
 import projImg1 from "./assets/img/project-img1.png"
-import projImg2 from "./assets/img/project-img2.png"
-import projImg3 from "./assets/img/project-img3.png"
+import projImg2 from "./assets/img/Untitled-2.png"
+import projImg3 from "./assets/img/Untitled-3.png"
+import projImg4 from "./assets/img/Untitled-4.png"
+import projImg5 from "./assets/img/Untitled-5.png"
+import projImg6 from "./assets/img/Untitled-6.png"
 import {Container, Row, Col, Nav, Tab} from "react-bootstrap"
 import ProjectCard from "./ProjectCard.jsx"
 import 'animate.css'
@@ -13,34 +16,34 @@ const Projects = () => {
 
     const projects = [
       {
-        title: "Business Startup",
-        description: "Design & Development",
+        title: "Valor.GG",
+        description: "Data Tracking Website",
         imgUrl: projImg1,
       },
       {
-        title: "Business Startup",
-        description: "Design & Development",
+        title: "Grand Restuarant",
+        description: "Marketing Website",
         imgUrl: projImg2,
       },
       {
-        title: "Business Startup",
-        description: "Design & Development",
+        title: "Sebo",
+        description: "Marketing Web Agency",
         imgUrl: projImg3,
       },
       {
-        title: "Business Startup",
-        description: "Design & Development",
-        imgUrl: projImg1,
+        title: "Sland",
+        description: "Marketing Web Agency",
+        imgUrl: projImg4,
+      },
+      {
+        title: "Barbercrop",
+        description: "Marketing Website",
+        imgUrl: projImg5,
       },
       {
         title: "Business Startup",
-        description: "Design & Development",
-        imgUrl: projImg2,
-      },
-      {
-        title: "Business Startup",
-        description: "Design & Development",
-        imgUrl: projImg3,
+        description: "E-Commerce Library Website",
+        imgUrl: projImg6,
       },
     ];
   
