@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.01f68218.css",
-    "main.js": "/static/js/main.45f9b5a0.js",
+    "main.css": "/static/css/main.dc382102.css",
+    "main.js": "/static/js/main.0e033877.js",
     "static/js/787.a1c6dfdb.chunk.js": "/static/js/787.a1c6dfdb.chunk.js",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/kisspng-astronaut-drawing-royalty-free-astronauta-ni-ntilde-o-5b4fbbed233a42.png": "/static/media/kisspng-astronaut-drawing-royalty-free-astronauta-ni-ntilde-o-5b4fbbed233a42.2318924415319521091443.d246e7096a44142becac.png",
@@ -26,12 +26,12 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/index.html",
     "static/media/file-regular.svg": "/static/media/file-regular.8e05aa53277de1e16d11082fed74a485.svg",
-    "main.01f68218.css.map": "/static/css/main.01f68218.css.map",
-    "main.45f9b5a0.js.map": "/static/js/main.45f9b5a0.js.map",
+    "main.dc382102.css.map": "/static/css/main.dc382102.css.map",
+    "main.0e033877.js.map": "/static/js/main.0e033877.js.map",
     "787.a1c6dfdb.chunk.js.map": "/static/js/787.a1c6dfdb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01f68218.css",
-    "static/js/main.45f9b5a0.js"
+    "static/css/main.dc382102.css",
+    "static/js/main.0e033877.js"
   ]
 }
